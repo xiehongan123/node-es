@@ -1,5 +1,5 @@
 {
-  "name": "es",
+  "name": "es-fix",
   "description": "API around the ElasticSearch RESTful API -- mostly convenience.",
   "main": "index.js",
   "version": "0.5.1",
@@ -23,10 +23,10 @@
     "es",
     "lucene"
   ],
-  "repository": "git://github.com/ncb000gt/node-es.git",
+  "repository": "git://github.com/xiehongan123/node-es.git",
   "license": "MIT",
-  "homepage": "http://github.com/ncb000gt/node-es",
-  "bugs": "http://github.com/ncb000gt/node-es/issues",
+  "homepage": "http://github.com/xiehongan123/node-es",
+  "bugs": "http://github.com/xiehongan123/node-es/issues",
   "devDependencies": {
     "chai": "*",
     "eslint": "~1.10.3",
